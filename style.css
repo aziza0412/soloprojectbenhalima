@@ -1,0 +1,171 @@
+#h1ed  {
+
+    font-size: 80px;
+    text-align: center;
+    border: #553c9a;
+    border-style: double;
+    font-weight: 60;
+    background-image: linear-gradient(to left, #e5bbe3, #a08ba0);
+    color: white;
+    background-clip: text;
+}
+
+body {
+    background-image: url("https://th.bing.com/th/id/R.2092f896003b315506efd91f8fdbec66?rik=Z38MKtR6wgZBaw&pid=ImgRaw&r=0");
+    background-size: cover;
+    background-repeat: no-repeat
+}
+
+input[type=text] {
+    width: 15%;
+    padding: 8px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-style: double;
+    background-color: #e7b4cd;
+    border: #553c9a;
+    border-style: double
+}
+#inputnameee{
+    width:150px
+}
+
+select {
+    width: 10%;
+    padding: 8px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-style: double;
+    background-color: #e7b4cd;
+    border: #553c9a;
+    border-style: double
+}
+
+button {
+
+    background-color: #dda4b9;
+    border: #553c9a;
+    border-style: double;
+    color: rgb(23, 22, 22);
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+   
+
+}
+
+.care,
+.search,
+.adopt {
+    display: none;
+}
+
+#choice {
+    width: 17%;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    font: normal 11px/22px Arial, Sans-Serif;
+    color: black;
+    border: 2px double #ccc;
+    background-color: #dda4b9;
+    padding: 12px 20px;
+    font-size: 16px;
+}
+
+.botton {
+    background-color: #dda4b9;
+    border: #553c9a;
+    border-style: double;
+    color: black;
+    padding: 12px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 3px;
+
+}
+
+img {
+    border: 5px solid rgb(229, 196, 229);
+    border-radius: 5px;
+    padding: 5px;
+    width: 170px;
+    height :100px;
+
+}
+
+p,
+h3 {
+    border: 5px solid rgb(229, 196, 229);
+    border-radius: 5px;
+    padding: 5px;
+    width: 170px;
+    font: bold;
+    font-size: 200;
+    color: rgb(22, 7, 89);
+    background-color: whitesmoke;
+
+}
+
+#countainer {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+.bottons {
+    text-align: center;
+}
+
+#addanimal {
+    text-align: center;
+    margin-right:150px ;
+}
+
+#animal,
+#medicalcare1 ,
+#inputnamee{
+    width: 200px;
+    padding: 8px 10px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-style: double;
+    background-color: #e7b4cd;
+    border: #553c9a;
+    border-style: double
+
+}
+.contact-banner {
+    background-color: #e161e6;
+    color: #FFF;
+    padding: 10px;
+    font-family: 'Comfortaa', cursive;
+}
+span{
+    margin-right: 400px;
+}
+#adddiv{
+    text-align: center;
+    margin-left: 150PX;
+
+}
+h2 {
+    text-align: center;
+    border: 5px solid rgb(120, 73, 120);
+    border-radius: 5px;
+    font: bold;
+    font-size: 600;
+    color: rgb(201, 40, 115);
+    margin-left: 400px;
+    margin-right: 300px;
+    background-color:#FFF  ;
+
+}
+video{
+    margin-left: 600px; 
+    margin-right: 400px; 
+}
